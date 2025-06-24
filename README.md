@@ -1,2 +1,2 @@
 # apnacollege-demo
-This is my first Repository. Authou - Subhasis Sahu
+This is my first Repository. Author- Subhasis Sahu
